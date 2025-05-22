@@ -1,7 +1,10 @@
 # Mini Calculatrice Java Swing
 
 Une calculatrice simple développée en Java avec interface graphique Swing.
+
+
 ![Preview](./src/ressources/images/calculatrice.png)
+
 
 ## Fonctionnalités
 
